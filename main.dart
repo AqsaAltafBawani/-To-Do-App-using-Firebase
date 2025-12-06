@@ -11,13 +11,13 @@ void main() async {
   // Initialize Firebase with the configuration
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: "AIzaSyDovylV8OiUav4LeT4T_tFLAgsckJH3dUY",
-      authDomain: "to-do-app-using-firebase.firebaseapp.com",
-      projectId: "to-do-app-using-firebase",
-      storageBucket: "to-do-app-using-firebase.firebasestorage.app",
-      messagingSenderId: "614603325401",
-      appId: "1:614603325401:web:e6ce573556adfaf6c563c8",
-      measurementId: "G-TKZC4DG2WT",
+      apiKey: "ABC",
+      authDomain: "ABC",
+      projectId: "ABC",
+      storageBucket: "ABC",
+      messagingSenderId: "XXX",
+      appId: "ABC",
+      measurementId: "ABC",
     ),
   );
 
@@ -58,3 +58,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
